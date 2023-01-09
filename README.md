@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rv602" alt="rv602" /></a> </p>
 
-- 🌱 I’m currently learning **Node js and Express js**
+- 🌱 I’m currently learning **Next js, backend development and Testing**
 
 - 📫 How to reach me **rajagopalan602@gmail.com**
 
