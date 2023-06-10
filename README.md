@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajagopalan</h1>
-<h3 align="center">Aspiring MERN Stack developer</h3>
+<h3 align="center">Aspiring Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rv602&label=Profile%20views&color=0e75b6&style=flat" alt="rv602" /> </p>
 
