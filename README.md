@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 
-- :spider_web: To get to know about my work and get the latese on Machine Learning visit [my website](https://rajagopalan.vercel.app/)
+- :spider_web: To get to know about my work visit [my website](https://rajagopalan.vercel.app/)
 - 🌱 I’m currently into the field of Software development - Web, Mobile, DevOps etc.
 - 👯 I’m looking to collaborate on innvoative ideas.
 - 💬 Ask me about Sofware development, Java, Python.
