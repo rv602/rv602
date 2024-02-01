@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: send an email to rajagopalan602@gmail.com or ping me in telegram @rv602
 
 - 🇮🇳 🕉️
-
-![rv602's Stats](https://github-readme-stats.vercel.app/api?username=rv602&theme=merko&show_icons=true&hide_border=false&count_private=true)
